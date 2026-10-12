@@ -12,12 +12,12 @@ print(name.title())
 
 
 # Знаменитая цитата
-print('Albert Einstein once said, "A person who never made a mistake never tried anything new."\n')
+print('Альберт Эйнштейн однажды сказал: «Человек, который никогда не совершал ошибок, никогда не пробовал ничего нового»."\n')
 
 
 # Знаменитая цитата 2
-famous_person = "Albert Einstein"
-message = famous_person + ' once said, "A person who never made a mistake never tried anything new."\n'
+famous_person = "Альберт Эйнштейн"
+message = famous_person + ' однажды сказал: «Человек, который никогда не совершал ошибок, никогда не пробовал ничего нового»."\n'
 
 print(message)
 
